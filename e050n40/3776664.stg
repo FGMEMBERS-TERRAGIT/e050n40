@@ -111,3 +111,7 @@ OBJECT_SHARED Models/lib/lamp10m.xml 50.06665 40.45577 -5.14 0
 OBJECT_SHARED Models/lib/lamp10m.xml 50.06547 40.45448 -7.88 0
 OBJECT_SHARED Models/lib/lamp10m.xml 50.06422 40.45537 -9.82 0
 # END dsf2stg
+OBJECT_SHARED Models/Airport/localizer.xml 50.030669 40.488858 -1.59 19.55
+OBJECT_SHARED Models/Airport/localizer.xml 50.050789 40.448231 -8.02 199.56
+OBJECT_SHARED Models/Airport/localizer.xml 50.063239 40.492969 2.88 359.55
+OBJECT_SHARED Models/Airport/localizer.xml 50.063381 40.453514 -7.14 179.56
