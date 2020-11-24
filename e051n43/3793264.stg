@@ -7,3 +7,12 @@ OBJECT_SHARED Models/Airport/marker.ac 51.118308 43.8479 7.64 180
 OBJECT_SHARED Models/Airport/marker.ac 51.147242 43.834311 1.13 180
 OBJECT_SHARED Models/Airport/localizer.xml 51.066497 43.871842 18.92 60.08
 OBJECT_SHARED Models/Airport/localizer.xml 51.117772 43.848108 8.01 240.08
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 51.09428 43.85413 0.00 0
+OBJECT_SHARED Models/lib/lamp10m.xml 51.09278 43.85452 17.96 0
+OBJECT_SHARED Models/lib/lamp10m.xml 51.08702 43.85717 18.42 0
+OBJECT_SHARED Models/lib/lamp10m.xml 51.09006 43.85825 20.47 0
+OBJECT_SHARED Models/lib/lamp10m.xml 51.08884 43.85881 20.36 0
+# END dsf2stg
